@@ -6,7 +6,7 @@
 <!-- Encabezado -->
 ### I PAC 2022  
 ### Seccción 0800
-### Catedrático  [Rafael E. Diaz del Valle O](rafael.diazdelvalle@unah.edu.hn) 
+### Catedrático:  [**Ing. Rafael E. Diaz del Valle O**](mailto:rafael.diazdelvalle@unah.edu.hn) 
 
 ### Estudiante 
 | Nombre | Numero De Cuenta | Correo Institucional |
